@@ -1,4 +1,4 @@
-# <img align="left" alt="codeSTACKr | Instagram" width="50px" src="img/Logo.jpg" />InLove
+# <img align="left" alt="codeSTACKr | Instagram" width="50px" src="img/Logo.jpg" /> MẠNG XÃ HỘI
 HO HUY VU MSSV : 201164073
 ### Built With
 
@@ -14,26 +14,26 @@ HO HUY VU MSSV : 201164073
 [<img align="left" alt="dshakir52 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nguyenluuvinh_/).
 
 ## Features
-1. Login, Signup,Logout,Forgot password (with email verification)
-2. Quick Login like in Facebook and Instagram (this means app remembers that you had logged in).
-3. Follow, Unfollow, Profile views.
-4. Post photo posts from camera or gallery
-   * Like posts
-      * View all likes on a post
-   * Comment on posts
-        * View all comments on a post
-5. Edit your profile (username, Bio, social links,Name).
-6. Conversation with your freinds.
-7. Message emoji, Text.
-8. Get Notifications.
-9. Search for users
-    * Search based on usernames
-10. Post Story from camera or gallery
-      * Views
-        * View all Views on a Story
-      * Delete
-        * Delete Story
-11. Offline Capability
+1. Đăng nhập, Đăng ký, Đăng xuất, Quên mật khẩu (có xác minh email)
+2. Đăng nhập nhanh như trên Facebook và Instagram (điều này có nghĩa là ứng dụng ghi nhớ rằng bạn đã đăng nhập).
+3. Theo dõi, Hủy theo dõi, Lượt xem hồ sơ.
+4. Đăng bài viết ảnh từ máy ảnh hoặc thư viện
+    * Thích bài viết
+       * Xem tất cả lượt thích trên một bài đăng
+    * Bình luận về bài viết
+         * Xem tất cả các bình luận trên một bài viết
+5. Chỉnh sửa hồ sơ của bạn (tên người dùng, Tiểu sử, liên kết xã hội, Tên).
+6. Trò chuyện với bạn bè.
+7. Tin nhắn biểu tượng cảm xúc, văn bản.
+8. Nhận thông báo.
+9. Tìm kiếm người dùng
+     * Tìm kiếm dựa trên tên người dùng
+10. Đăng câu chuyện từ máy ảnh hoặc thư viện
+       * Lượt xem
+         * Xem tất cả lượt xem trên một câu chuyện
+       * Xóa bỏ
+         * Xóa câu chuyện
+11. Khả năng ngoại tuyến
 
 ## Screenshots
 #### Registration | Login
